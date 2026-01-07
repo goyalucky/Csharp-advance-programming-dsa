@@ -1,0 +1,3 @@
+Hello World
+StreamReader converts bytes to characters
+12345

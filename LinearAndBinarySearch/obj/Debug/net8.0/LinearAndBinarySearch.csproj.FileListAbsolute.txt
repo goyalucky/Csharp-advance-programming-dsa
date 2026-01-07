@@ -1,0 +1,14 @@
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\LinearAndBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\LinearAndBinarySearch.AssemblyInfoInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\LinearAndBinarySearch.AssemblyInfo.cs
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\LinearAndBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\bin\Debug\net8.0\LinearAndBinarySearch.exe
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\bin\Debug\net8.0\LinearAndBinarySearch.deps.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\bin\Debug\net8.0\LinearAndBinarySearch.runtimeconfig.json
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\bin\Debug\net8.0\LinearAndBinarySearch.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\bin\Debug\net8.0\LinearAndBinarySearch.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\LinearAndBinarySearch.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\refint\LinearAndBinarySearch.dll
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\LinearAndBinarySearch.pdb
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\LinearAndBinarySearch.genruntimeconfig.cache
+C:\Users\Prashant Goyal\source\repos\ConsoleApp1\ConsoleApp1\Data_Structures\LinearAndBinarySearch\obj\Debug\net8.0\ref\LinearAndBinarySearch.dll

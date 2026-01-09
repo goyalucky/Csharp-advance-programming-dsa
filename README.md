@@ -63,8 +63,6 @@ All sorting programs are implemented from scratch to strengthen DSA fundamentals
 
 ---
 
----
-
 ### 🔹 `searching` branch
 This branch focuses on **searching algorithms, efficient string manipulation, and file handling concepts** in C#.  
 It is designed to strengthen **DSA fundamentals**, **performance-aware coding**, and **real-world I/O handling** using built-in .NET utilities.
@@ -131,6 +129,196 @@ It is designed to strengthen **DSA fundamentals**, **performance-aware coding**,
 - Writing **performance-optimized string operations**
 - Handling **file I/O operations** in real-world scenarios
 - Strengthening **problem-solving and algorithmic thinking**
+
+---
+
+### 🔹 `runtime-analysis` branch
+This branch focuses on **runtime complexity analysis and performance comparison** of different algorithms and programming approaches in C#.  
+The goal is to build a **deep understanding of time complexity (Big-O notation)** by comparing **naive vs optimized solutions** using real-world datasets and scenarios.
+
+All programs in this branch are designed to **measure execution time, scalability, and efficiency**.
+
+---
+
+### 📝 Performance Analysis Problems
+
+---
+
+### 🔹 1. Search a Target in a Large Dataset
+**Objective:**  
+Compare the performance of:
+- **Linear Search** – `O(N)`
+- **Binary Search** – `O(log N)`
+
+**Description:**  
+Search for a target element in datasets of varying sizes and analyze how performance changes as data grows.
+
+---
+
+### 🔹 2. Sorting Large Data Efficiently
+**Objective:**  
+Compare sorting algorithms:
+- **Bubble Sort** – `O(N²)`
+- **Merge Sort** – `O(N log N)`
+- **Quick Sort** – `O(N log N)`
+
+**Description:**  
+Sort large datasets and analyze execution time to understand why advanced sorting algorithms outperform basic ones for large inputs.
+
+---
+
+### 🔹 3. String Concatenation Performance
+**Objective:**  
+Compare string concatenation approaches:
+- **String** – `O(N²)`
+- **StringBuilder** – `O(N)`
+- **StringBuffer** – `O(N)`
+
+**Description:**  
+Concatenate a large number of strings (e.g., one million) and measure performance differences to highlight efficient memory usage.
+
+---
+
+### 🔹 4. Large File Reading Efficiency
+**Objective:**  
+Compare file reading techniques:
+- **StreamReader**
+- **FileStream**
+
+**Description:**  
+Read a large file (≈500MB) and analyze which approach is more efficient in terms of speed and resource usage.
+
+---
+
+### 🔹 5. Recursive vs Iterative Fibonacci Computation
+**Objective:**  
+Compare Fibonacci implementations:
+- **Recursive Approach** – `O(2^N)`
+- **Iterative Approach** – `O(N)`
+
+**Description:**  
+Compute Fibonacci numbers using both methods and observe how recursion leads to exponential time complexity compared to iteration.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understand **Big-O notation through practical examples**
+- Analyze **performance trade-offs** between algorithms
+- Learn how **data size impacts execution time**
+- Write **efficient, scalable C# code**
+- Develop strong **algorithm optimization skills**
+
+---
+
+### 🔹 `hashMap` branch
+This branch focuses on **non-linear data structures**, primarily **HashMap (Dictionary)**, used to model real-world problems involving **key–value relationships**.
+The implementations emphasize **abstraction, encapsulation, and polymorphism**.
+
+---
+
+### 📝 Practice Problems
+
+---
+
+- **Inventory Management System**
+  - Maps product IDs to product details.
+  - *OOP:* Encapsulated inventory manager, polymorphic products.
+
+- **Role-Based Access Control (RBAC)**
+  - Maps users to roles and permissions.
+  - *OOP:* Abstraction via roles, polymorphic role behavior.
+
+- **Student Grade Book**
+  - Maps student roll numbers to grade reports.
+  - *OOP:* Strategy-based grading systems.
+
+- **URL Shortener Service**
+  - Maps short URLs to original long URLs.
+  - *OOP:* Interface-based storage, pluggable implementations.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understand **non-linear data structure behavior**
+- Implement **Dictionary / HashMap** efficiently
+- Model **real-world relationships using key–value pairs**
+- Apply **encapsulation and abstraction**
+- Strengthen **data-driven system design**
+
+---
+
+### 🔹 `stack` branch
+This branch focuses on **linear data structures** where elements are arranged sequentially. It demonstrates practical implementations of **Stack** using **real-world use cases** while applying **Object-Oriented Programming (OOP) principles** such as abstraction, encapsulation, interfaces, and polymorphism.
+
+---
+
+### 📝 Practice Problems
+
+---
+
+- **Expression Evaluation Engine**
+  - Converts infix expressions to postfix and evaluates them.
+  - Uses stack internally for parsing and computation.
+  - *OOP:* Interface-based evaluators, encapsulated stack operations.
+
+- **Web Browser Navigation (Back / Forward)**
+  - Simulates browser tab navigation using two stacks.
+  - *OOP:* Encapsulation of navigation logic, extensible design.
+
+- **Syntax Checker for Code Editors**
+  - Validates balanced parentheses, brackets, and braces.
+  - *OOP:* Stack logic hidden inside syntax checker implementation.
+
+- **Undo Functionality in Drawing Application**
+  - Stores drawing actions and supports undo operation.
+  - *OOP:* Polymorphic drawing actions, encapsulated undo stack.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understand **Stack** operations deeply
+- Apply **linear data structures** to real-world problems
+- Design systems using **interfaces and encapsulation**
+- Implement **polymorphism in data structure-based systems**
+- Strengthen **DSA + OOP integration**
+
+### 🔹 `queues` branch
+This branch focuses on **linear data structures** where elements are arranged sequentially. It demonstrates practical implementations of **Stack** using **real-world use cases** while applying **Object-Oriented Programming (OOP) principles** such as abstraction, encapsulation, interfaces, and polymorphism.
+
+---
+
+### 📝 Practice Problems
+
+---
+
+- **Print Job Manager**
+  - Handles print requests in arrival order.
+  - *OOP:* Encapsulated print queue, polymorphic document types.
+
+- **Ticket Booking System**
+  - Processes booking requests sequentially.
+  - *OOP:* Interface-based request handling for different transports.
+
+- **Task Dispatcher for Background Workers**
+  - Queues background tasks like uploads, analytics, and logs.
+  - *OOP:* Encapsulation of task queue, polymorphic tasks.
+
+- **Call Center Management System**
+  - Manages incoming calls and assigns them to agents.
+  - *OOP:* Interface-driven call types, hidden queue management.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understand **Queue** operations deeply
+- Apply **linear data structures** to real-world problems
+- Design systems using **interfaces and encapsulation**
+- Implement **polymorphism in data structure-based systems**
+- Strengthen **DSA + OOP integration**
 
 ---
 

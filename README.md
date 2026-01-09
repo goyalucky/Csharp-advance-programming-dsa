@@ -63,6 +63,77 @@ All sorting programs are implemented from scratch to strengthen DSA fundamentals
 
 ---
 
+---
+
+### 🔹 `searching` branch
+This branch focuses on **searching algorithms, efficient string manipulation, and file handling concepts** in C#.  
+It is designed to strengthen **DSA fundamentals**, **performance-aware coding**, and **real-world I/O handling** using built-in .NET utilities.
+
+### 📝 Practice Problems
+
+- **Reverse a String Using StringBuilder**  
+  Reverse a given string using `StringBuilder` instead of built-in reverse methods.
+
+- **Remove Duplicates from a String Using StringBuilder**  
+  Remove duplicate characters while maintaining the original order.
+
+- **Concatenate Strings Efficiently Using StringBuilder**  
+  Concatenate an array of strings using `StringBuilder` for better performance.
+
+- **Compare StringBuilder Performance**  
+  Compare the performance of `StringBuilder` with normal string concatenation for repeated operations.
+
+- **Read a File Line by Line Using StreamReader**  
+  Read and display each line from a text file.
+
+- **Count the Occurrence of a Word in a File**  
+  Read a file and count how many times a specific word appears.
+
+- **Convert Byte Stream to Character Stream**  
+  Read binary data from a file and display it as characters.
+
+- **Read User Input and Write to File**  
+  Take input from the console and store it in a file using stream operations.
+
+- **Search for the First Negative Number**  
+  Find the first negative number in an integer array using Linear Search.
+
+- **Search for a Specific Word in Sentences**  
+  Find the first sentence containing a given word using Linear Search.
+
+- **Find the Rotation Point in a Rotated Sorted Array**  
+  Identify the index of the smallest element using Binary Search.
+
+- **Find the Peak Element in an Array**  
+  Find an element greater than its neighbors using Binary Search.
+
+- **Search for a Target Value in a 2D Sorted Matrix**  
+  Perform Binary Search on a row-wise sorted 2D matrix.
+
+- **Find First and Last Occurrence of an Element**  
+  Locate the first and last index of a target element in a sorted array.
+
+---
+
+#### 🚀 Challenge Problem (Linear + Binary Search)
+
+- **First Missing Positive & Target Search**
+  - Use **Linear Search** to find the first missing positive integer.
+  - Sort the array and apply **Binary Search** to find the index of a target element.
+  - Return `-1` if the target is not found.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Mastering **Linear and Binary Search algorithms**
+- Understanding **time complexity trade-offs**
+- Writing **performance-optimized string operations**
+- Handling **file I/O operations** in real-world scenarios
+- Strengthening **problem-solving and algorithmic thinking**
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning) 

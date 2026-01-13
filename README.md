@@ -322,6 +322,47 @@ This branch focuses on **linear data structures** where elements are arranged se
 
 ---
 
+### 🔹 linkedList
+This folder focuses on implementing **Linked List data structures** through **real-world use cases**, while applying **Object-Oriented Programming (OOP)** concepts such as abstraction, encapsulation, inheritance, and polymorphism.
+
+### 📝 Implemented Scenarios
+
+- **Browser History Navigation**  
+  Implements backward and forward navigation using a doubly linked list.
+
+- **Music Playlist Management**  
+  Manages a dynamic playlist where songs can be added, removed, and played sequentially.
+
+- **Customer Service Call Center Queue**  
+  Handles support tickets in FIFO order with different ticket types like chat, call, and email.
+
+- **Customer Support Chat Queue System**  
+  Maintains a queue of user requests using interfaces and polymorphism.
+
+- **Social Media Notification Feed**  
+  Stores and displays notifications in reverse chronological order.
+
+- **Custom Notification Delivery System**  
+  Delivers Email, SMS, and Push notifications using an interface-based queue.
+
+- **Train Route Management System**  
+  Manages railway stations as linked stops with dynamic insertion, removal, and traversal.
+
+- **Undo / Redo Manager (Command Pattern)**  
+  Implements undo and redo operations using a linked list and command interface.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understand **Stack, Queue and LinkedList** operations deeply
+- Apply **linear data structures** to real-world problems
+- Design systems using **interfaces and encapsulation**
+- Implement **polymorphism in data structure-based systems**
+- Strengthen **DSA + OOP integration**
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning) 

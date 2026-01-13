@@ -322,7 +322,7 @@ This branch focuses on **linear data structures** where elements are arranged se
 
 ---
 
-### 🔹 linkedList
+### 🔹 `linkedList` branch
 This folder focuses on implementing **Linked List data structures** through **real-world use cases**, while applying **Object-Oriented Programming (OOP)** concepts such as abstraction, encapsulation, inheritance, and polymorphism.
 
 ### 📝 Implemented Scenarios

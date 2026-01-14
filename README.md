@@ -363,6 +363,61 @@ This folder focuses on implementing **Linked List data structures** through **re
 
 ---
 
+
+### 🔹 `delegates` branch
+This branch focuses on **C# Delegates**, demonstrating how methods can be referenced, passed, combined, and executed dynamically. The problems progress from **basic delegate usage** to **advanced concepts** like multicast delegates, callbacks, and comparisons with `Func` and `Action`.
+
+---
+
+### 📝 Practice Problems (Basic Level)
+
+- **Simple Delegate Invocation**  
+  Create a delegate that takes two integers and returns an integer.  
+  Use it to invoke methods like Add, Subtract, and Multiply.
+
+- **Delegate with Void Return Type**  
+  Define a delegate that prints messages such as Welcome, Error, and Success.
+
+- **Delegate as Method Parameter**  
+  Pass a delegate as a parameter to perform different operations on two numbers.
+
+- **Multicast Delegate**  
+  Attach multiple methods to a single delegate and observe execution order.
+
+- **Anonymous Method with Delegate**  
+  Use an anonymous method to calculate the square of a number.
+
+- **Delegate vs Func / Action**  
+  Rewrite custom delegates using:
+  - `Func<int, int, int>`
+  - `Action<string>`
+
+- **Delegate for Validation**  
+  Use delegates to validate inputs such as:
+  - Email
+  - Password
+  - Phone Number
+
+- **Delegate Chaining & Removal**  
+  Add multiple methods to a delegate and remove one at runtime.
+
+- **Callback Using Delegate**  
+  Simulate a file download process that uses a delegate callback to notify when the download is complete.
+
+---
+
+### 🎯 Learning Outcomes
+
+- Understanding **delegate declaration and invocation**
+- Using **delegates as method parameters**
+- Implementing **multicast delegates**
+- Writing **anonymous methods**
+- Comparing **custom delegates vs Func/Action**
+- Implementing **callbacks and event-like behavior**
+- Improving flexibility and decoupling in C# programs
+
+---
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning) 

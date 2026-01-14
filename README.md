@@ -418,6 +418,109 @@ This branch focuses on **C# Delegates**, demonstrating how methods can be refere
 
 ---
 
+
+## 🔹 `events` branch
+This branch focuses on **C# Events**, demonstrating how objects can **notify other objects** when something happens, without tight coupling.  
+The problems progress from **basic event handling** to **real-world event-driven scenarios** using `EventHandler`, custom `EventArgs`, and event subscription/unsubscription.
+
+---
+
+## 📝 Practice Problems (Basic → Intermediate Level)
+
+### 1️⃣ Banking Events
+Create a **BankAccount** class that raises events for:
+- Balance Deposited
+- Balance Withdrawn
+- Insufficient Balance  
+
+📌 Use events to notify subscribers like:
+- SMS Service  
+- Email Service  
+- Logger  
+
+---
+
+### 2️⃣ Online Shopping Cart
+Create a **ShoppingCart** system where events are raised when:
+- Item Added
+- Item Removed
+- Order Placed  
+
+📌 Subscribers may:
+- Update UI
+- Generate Invoice
+- Send Order Confirmation  
+
+---
+
+### 3️⃣ Game Score System
+Create a **Game** class that raises an event when:
+- Score changes  
+
+📌 Pass data using **custom EventArgs**:
+- Old Score  
+- New Score  
+
+📌 Handle the event in:
+- UI Display  
+- Achievement System  
+
+---
+
+### 4️⃣ Employee Attendance System
+Create an **Employee** class that raises events when:
+- Employee Checks In
+- Employee Checks Out  
+
+📌 Subscribers:
+- HR System
+- Attendance Logger  
+- Payroll System  
+
+---
+
+### 5️⃣ Temperature Monitoring System
+Create a **TemperatureSensor** that raises an event when:
+- Temperature exceeds a threshold  
+
+📌 Use:
+- `EventHandler`
+- Custom `TemperatureExceededEventArgs`
+
+📌 Subscribers:
+- Alert System
+- Logger  
+
+---
+
+### 6️⃣ Chat Application
+Create a **Chat** class that raises an event when:
+- A message is received  
+
+📌 Subscribers:
+- UI (display message)
+- Database (store message)
+- Notification System  
+
+📌 Demonstrates **multiple subscribers** and **event chaining**
+
+---
+
+## 🎯 Learning Outcomes
+
+By completing this branch, you will understand:
+
+- What **events** are and why they are used
+- Difference between **delegates and events**
+- How to declare and raise events
+- How to **subscribe and unsubscribe** to events
+- Using **EventHandler and custom EventArgs**
+- Implementing **real-world event-driven systems**
+- Achieving **loose coupling** between classes
+
+---
+
+
 ## 👤 Author
 **Lucky Goyal**  
 B.Tech CSE (Artificial Intelligence and Machine Learning) 
